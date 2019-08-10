@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCopier", "PathCopier\Pa
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallerProject", "InstallerProject\InstallerProject.vdproj", "{4BCA3F01-9EDE-47BC-B8CF-BCBF3DEC98EA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{DC6CBD87-165C-427F-8D43-5098694AB6A1}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
